@@ -1,11 +1,18 @@
-evolisa - generating images with polygons
-=========================================
+evolisa
+=======
 
-This is an attempt at generating an output image using semi transparent polygons 
-similar to http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/.
+This is an attempt at generating an output image from a source picture by mutating 
+a group of semi-transparent polygons.
+
+I wanted to do something similar to this:
+http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/
 
 ![animated gif of generated image](/img/generated.gif?raw=true "timelapse gif")
 ![generated image](/img/0000000650.png?raw=true "generated image")
+
+The code is still very thrown together but it produces some acceptable results. 
+Generating the image above took a couple of hours though so there's room for 
+improvements.
 
 Install requirements
 ====================
