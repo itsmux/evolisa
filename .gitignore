@@ -1,5 +1,8 @@
+.DS_Store
 .Python
 bin/
 include/
 lib/
 share/
+ 
+*.py[cod]
