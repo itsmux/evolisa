@@ -46,6 +46,10 @@ Usage
   bin/python src/generate.py <path_to_img>
   ```
 
+Use a small source image (e.g. with a maximum size of 512x512 pixels). The 
+generated image files will be created in your system's temp directory.
+
+
 Notes
 =====
   
