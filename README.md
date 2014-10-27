@@ -14,6 +14,8 @@ The code is still very thrown together but it produces some acceptable results.
 Generating the image above took a couple of hours though so there's room for 
 improvements.
 
+I'd be happy to hear about ideas on how to improve the algorithm/code.
+
 Install requirements
 ====================
 
